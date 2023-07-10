@@ -1,5 +1,5 @@
 # pandas-challenge
 
-File containing code and analysis: main.ipynb \ 
-\
-Source data: \Resources
+**File containing code and analysis:** main.ipynb
+
+**Source data:** \Resources
